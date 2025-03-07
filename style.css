@@ -32,7 +32,11 @@ img{
     padding: 4rem 2rem;
 	
 }
-
+header{
+	display: flex;
+	justify-content:center;
+	align-items: center;
+}
 
 a{
     color: skyblue;
