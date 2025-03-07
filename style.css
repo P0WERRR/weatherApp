@@ -30,6 +30,9 @@ img{
 }
 .container{
     padding: 4rem 2rem;
+	display: flex;
+	justify-content:center;
+	align-items: center;
 }
 
 
